@@ -1,1 +1,1 @@
-# OpenConext-white-label-demo
+# OpenConext-access-custom-surf
